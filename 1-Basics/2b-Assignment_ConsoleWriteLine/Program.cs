@@ -9,8 +9,8 @@ namespace HelloWorld
         public static void Main(string[] args)
         {
             //Write Your Code Here
-            
-            Console.WriteLine("Hello World!");
+            string toPrint = "Hello World!";
+            Console.WriteLine(toPrint);
         }
     }
 }

@@ -8,11 +8,9 @@ namespace HelloWorld
     {
         public static void Main(string[] args)
         {
-            Console.Write("Write");
-            Console.Write("Write2");
-            Console.WriteLine("WriteLine");
-            Console.Write("Write");
-            Console.Write("Write2");
+            Console.Write("Hello");
+            Console.Write(" World");
+            Console.WriteLine("Hello world");
         }
     }
 }
